@@ -689,3 +689,7 @@ a {
     line-height: 2.6rem; /* 185.714% */
     padding: 2.8rem 0 4.2rem;
 }
+.footer_item a:hover{
+    text-decoration: underline;
+    color: #2e80ce;
+}
