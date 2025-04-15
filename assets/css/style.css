@@ -673,8 +673,11 @@ a {
 }
 .btn-footer {
     margin-left: 1.2rem;
-    border-radius: 0.4rem;
+    border-radius: 1rem;
     background: #2e80ce;
+    line-height: 5rem;
+    height: 5rem;
+    border: none;
 }
 .copyright {
     display: flex;
