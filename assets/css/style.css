@@ -31,6 +31,9 @@ a {
 .btn:hover {
     opacity: 0.8;
 }
+.header-top{
+    padding-top: 1rem;
+}
 .header-fix{
     position: sticky;
     top: -14px;
