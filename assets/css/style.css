@@ -31,10 +31,10 @@ a {
 .btn:hover {
     opacity: 0.8;
 }
-.header-top{
+.header-top {
     padding-top: 1rem;
 }
-.header-fix{
+.header-fix {
     position: sticky;
     top: -14px;
     z-index: 1;
@@ -171,7 +171,6 @@ a {
     line-height: 8rem; /* 114.286% */
     letter-spacing: -0.14rem;
 }
-
 
 .hero__img {
     display: flex;
@@ -416,7 +415,7 @@ a {
 }
 .our_virtual-list {
     display: grid;
-    grid-template-columns: repeat(4,1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 2rem;
 }
 .our_virtual-imgmember {
